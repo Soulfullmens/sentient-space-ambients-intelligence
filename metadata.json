@@ -1,0 +1,8 @@
+{
+  "name": " SentientSpace",
+  "description": "A real-time AI monitoring dashboard using Gemini Live API to analyze video and audio streams for Health, Science, and Business applications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
